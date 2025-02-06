@@ -1,4 +1,4 @@
-# Mozz-test-task
+# microcredit_Laravel
 ## устанвока
 Скопируйте файл окружения и настройте его:
 ```sh
