@@ -18,6 +18,10 @@ DB_USERNAME=laravel
 DB_PASSWORD=laravel
 API_KEY=secret_api_key
 ```
+установка зависимостей:
+```sh
+composer install
+```
 Выполните миграции и сидеры:
 ```sh
 docker-compose exec app php artisan migrate:fresh --seed
